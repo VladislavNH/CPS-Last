@@ -40,5 +40,5 @@ npm run deploy
 ```
 
 
-проект на GitPages:
+проект на GitPages: https://vladislavnh.github.io/CPS-LasI/
 
